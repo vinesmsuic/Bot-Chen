@@ -1,4 +1,4 @@
-# Bot-Chen-Discord-Bot-
+# Chen The Discord Bot
 
 Built with:
 
