@@ -7,7 +7,8 @@ Discord.js - The Discord Library
 Node JS - Java Script Framework
 
 Current Function:
-----------------------------------------------
+---------------------------------------------
+```
 Type .ping to get a simple pong response
 Type .sinfo for server info!
 Type .binfo for bot info!
@@ -24,4 +25,4 @@ Type .ask question to chen!
 Type .vote to create a vote!
 Type .luckycolor to get a hexcolor code!
 more function coming...
-----------------------------------------------
+```
