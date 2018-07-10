@@ -4,7 +4,7 @@
 * Discord.js - The Discord Library
 * Node JS - Java Script Framework
 
-Current Function:
+Current Commands:
 ---------------------------------------------
 ```
 Type .ping to get a simple pong response
