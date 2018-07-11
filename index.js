@@ -47,6 +47,10 @@ bot.on("message", async message => {
     let commandfile = bot.commands.get(cmd.slice(prefix.length));
     if(commandfile) commandfile.run(bot, message, args);
 
+    //Heroku Test
+        if (message.content === 'ping') {
+    	message.reply('pong');
+  	}
 
     //bot info and server info
     if(cmd == `${prefix}p` || cmd == `${prefix}ping`) return message.channel.send("pong! (0ms)");
