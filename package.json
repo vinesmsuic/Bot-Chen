@@ -1,12 +1,12 @@
 {
   "name": "jsbasicbot2",
   "version": "1.0.0",
-  "description": "",
+  "description": "Bot Chen",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "vinesmsuic",
   "license": "ISC",
   "dependencies": {
     "discord.js": "^11.3.2",
