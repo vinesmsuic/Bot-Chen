@@ -1,4 +1,5 @@
 # Chen The Discord Bot
+A fun discord bot.
 
 ## Built with:
 * Discord.js - The Discord Library
