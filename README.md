@@ -24,3 +24,6 @@ Type .vote to create a vote!
 Type .luckycolor to get a hexcolor code!
 more function coming...
 ```
+
+## 24/7 Hosting
+* Using [Heroku](https://www.heroku.com/) The Cloud Application Platform to Host
