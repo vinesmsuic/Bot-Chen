@@ -11,6 +11,7 @@ module.exports.run = async (bot,message,args) => {
         .setThumbnail(message.author.avatarURL)
         .addField(message.author.username + " wanted to say", usermsg);
 
+        message.delete().catch();
         message.channel.send(Embedmsg);
     }
 
