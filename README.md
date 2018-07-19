@@ -1,5 +1,5 @@
 # Chen The Discord Bot
-A fun discord bot.
+A fun discord bot. The bot is named "Chen".
 
 ## Built with:
 * Discord.js - The Discord Library
