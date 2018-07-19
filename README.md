@@ -20,9 +20,12 @@ Type .clear [amount] to clear messages!
 Type .cat for a random cute cat!
 Type .doggo for a random cute dog!
 Type .hi to chat with the bot!
-Type .ask question to chen!
+Type .ask to ask a question to chen!
 Type .vote to create a vote!
 Type .luckycolor to get a hexcolor code!
+Type .say to let the bot say for you!
+Type .embed to let the bot embed for you!
+
 more function coming...
 ```
 
