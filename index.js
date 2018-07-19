@@ -1,4 +1,5 @@
 const botconfig = require("./botconfig.json");
+//If you want to self host
 //const tokenfile = require("./tokenfile.json");
 const Discord = require("discord.js");
 const fs = require("fs");
