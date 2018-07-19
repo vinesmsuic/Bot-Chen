@@ -32,3 +32,7 @@ more function coming...
 
 ## 24/7 Hosting
 * Using [Heroku](https://www.heroku.com/) The Cloud Application Platform to Host
+
+
+## Invite her to your server
+* [HONK HONK!](https://discordapp.com/oauth2/authorize?client_id=457923703129374720&scope=bot&permissions=2117467383)
