@@ -22,9 +22,11 @@ if(!prefix){
                         "Type " + prefix + "cat for a random cute cat!\n" +
                         "Type " + prefix + "doggo for a random cute dog!\n" +
                         "Type " + prefix + "hi to chat with the bot!\n" +
-                        "Type " + prefix + "ask question to chen!\n" +
+                        "Type " + prefix + "ask to ask a question to chen!\n" +
                         "Type " + prefix + "vote to create a vote!\n" +
-                        "Type " + prefix + "luckycolor to get a hexcolor code!\n"
+                        "Type " + prefix + "luckycolor to get a hexcolor code!\n" +
+                        "Type " + prefix + "say to let the bot say for you!\n" +
+                        "Type " + prefix + "embed to let the bot embed for you!\n"
                         + "```");
 
 }
