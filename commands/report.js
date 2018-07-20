@@ -1,5 +1,6 @@
 const Discord = require("discord.js");
 const errors = require("../utils/errors.js");
+let colorp = require("../colorpreset.json");
 
 module.exports.run = async (bot, message, args) => {
     let rUser = message.guild.member(message.mentions.users.first() || message.guild.members.get(args[0]));
@@ -14,7 +15,7 @@ module.exports.run = async (bot, message, args) => {
 
     let reportEmbed = new Discord.RichEmbed()
     .setDescription("Reports")
-    .setColor("#15f153")
+    .setColor(colorp.hotpink)
     .addField("Reported User", `${rUser} with ID: ${rUser.id}`)
     .addField("Channel", message.channel)
     .addField("Time", message.createdAt)
