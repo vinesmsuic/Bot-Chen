@@ -3,8 +3,8 @@ A fun discord bot. The bot is named after the
 Bakeneko "Chen(橙)" from the touhou series.
 
 ## Built with:
-* Discord.js - The Discord Library
-* Node JS - Java Script Framework
+* [Discord.js](https://github.com/discordjs/discord.js/) - The Discord Library
+* [Node JS](https://github.com/nodejs/node) - Java Script Framework
 
 Current Commands:
 ---------------------------------------------
