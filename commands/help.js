@@ -26,7 +26,8 @@ if(!prefix){
                         "Type " + prefix + "vote to create a vote!\n" +
                         "Type " + prefix + "luckycolor to get a hexcolor code!\n" +
                         "Type " + prefix + "say to let the bot say for you!\n" +
-                        "Type " + prefix + "embed to let the bot embed for you!\n"
+                        "Type " + prefix + "embed to let the bot embed for you!\n" +
+                        "Type " + prefix + "flip to flip a coin!\n"
                         + "```");
 
 }
