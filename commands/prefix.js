@@ -3,7 +3,7 @@ const fs = require("fs");
 
 module.exports.run = async (bot, message , args, prefix) => {
 
-    if(!message.member.hasPermission("ADMINISTRATOR")) return message.reply("You dont have such permission.");
+    if(!message.member.hasPermission("ADMINISTRATOR")) return message.reply("You dont have such permission.").then(msg => msg.delete(3000));
     
     if(!args[0] || args[0 == "help"]) return message.reply(`Usage: .prefix <desired prefix here>`);
 
