@@ -27,7 +27,9 @@ if(!prefix){
                         "Type " + prefix + "luckycolor to get a hexcolor code!\n" +
                         "Type " + prefix + "say to let the bot say for you!\n" +
                         "Type " + prefix + "embed to let the bot embed for you!\n" +
-                        "Type " + prefix + "flip to flip a coin!\n"
+                        "Type " + prefix + "flip to flip a coin!\n" +
+                        "Type " + prefix + "chen to get a photo of chen!\n" +
+                        "Type " + prefix + "asciiart to get a random asciiart!\n"
                         + "```");
 
 }
