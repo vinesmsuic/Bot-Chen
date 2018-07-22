@@ -31,7 +31,7 @@ module.exports.botuser = (message) => {
         .setTitle("Error")
         .setDescription("You cannot ban a bot.")
         .setColor(colorp.red)
-        .setThumbnail(`https://78.media.tumblr.com/bae6877a04f06d34ef9464806c4a7296/tumblr_obwoxdilyJ1u349h5o1_500.gif`);
+        .setThumbnail(`https://i.kym-cdn.com/photos/images/original/000/787/536/32d.gif`);
 
     message.channel.send(embed).then(msg => msg.delete(5000));
 }
@@ -41,7 +41,7 @@ module.exports.cantfindUser = (channel) => {
         .setTitle("Error")
         .setDescription("Who do you want me to ban?")
         .setColor(colorp.red)
-        .setThumbnail(`https://78.media.tumblr.com/bae6877a04f06d34ef9464806c4a7296/tumblr_obwoxdilyJ1u349h5o1_500.gif`);
+        .setThumbnail(`https://i.kym-cdn.com/photos/images/original/000/787/536/32d.gif`);
 
     channel.send(embed).then(msg => msg.delete(5000));
 }
