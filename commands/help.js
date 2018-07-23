@@ -29,7 +29,8 @@ if(!prefix){
                         "Type " + prefix + "embed to let the bot embed for you!\n" +
                         "Type " + prefix + "flip to flip a coin!\n" +
                         "Type " + prefix + "chen to get a photo of chen!\n" +
-                        "Type " + prefix + "asciiart to get a random asciiart!\n"
+                        "Type " + prefix + "asciiart to get a random asciiart!\n" +
+                        "Type " + prefix + "honk to get a random honk song!\n"
                         + "```");
 
 }
