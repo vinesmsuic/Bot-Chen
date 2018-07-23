@@ -57,5 +57,5 @@ more function coming...
 
 
 ## Invite her to your server
-* [HONK HONK!](https://discordapp.com/oauth2/authorize?client_id=457923703129374720&scope=bot&permissions=2117467383)
+* [HONK HONK!](https://discordapp.com/oauth2/authorize?client_id=457923703129374720&scope=bot&permissions=2117467383)<br/>
 ![Chen's Pic](https://ih0.redbubble.net/image.15399115.2349/raf,750x1000,075,t,fafafa:ca443f4786.jpg)
