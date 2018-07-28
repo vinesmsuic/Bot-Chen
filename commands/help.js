@@ -28,9 +28,13 @@ if(!prefix){
                         "Type " + prefix + "say to let the bot say for you!\n" +
                         "Type " + prefix + "embed to let the bot embed for you!\n" +
                         "Type " + prefix + "flip to flip a coin!\n" +
-                        "Type " + prefix + "chen to get a photo of chen!\n" +
+                        "Type " + prefix + "chen to get a ascii art of chen!\n" +
                         "Type " + prefix + "asciiart to get a random asciiart!\n" +
-                        "Type " + prefix + "honk to get a random honk song!\n"
+                        "Type " + prefix + "honk to get a random honk song!\n" +
+                        "Type " + prefix + "vaporwave [text] to vapor text!\n" +
+                        "Type " + prefix + "encode [text] to encode text!\n" +
+                        "Type " + prefix + "decode [text] to decode text!\n" +
+                        "Type " + prefix + "sample to get a sample text!\n"
                         + "```");
 
 }
