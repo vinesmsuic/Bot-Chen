@@ -34,7 +34,8 @@ if(!prefix){
                         "Type " + prefix + "vaporwave [text] to vapor text!\n" +
                         "Type " + prefix + "encode [text] to encode text!\n" +
                         "Type " + prefix + "decode [text] to decode text!\n" +
-                        "Type " + prefix + "sample to get a sample text!\n"
+                        "Type " + prefix + "sample to get a sample text!\n" +
+                        "Type " + prefix + "fakemusic [songname] to make a fake musicplayer!\n"
                         + "```");
 
 }
