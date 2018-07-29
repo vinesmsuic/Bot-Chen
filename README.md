@@ -48,6 +48,15 @@ Type .vote to create a vote!
 Type .luckycolor to get a hexcolor code!
 Type .say to let the bot say for you!
 Type .embed to let the bot embed for you!
+Type .flip to flip a coin!
+Type .chen to get a ascii art of chen!
+Type .asciiart to get a random asciiart!
+Type .honk to get a random honk song!
+Type .vaporwave [text] to vapor text!
+Type .encode [text] to encode text!
+Type .decode [text] to decode text!
+Type .sample to get a sample text!
+Type .fakemusic [songname] to make a fake musicplayer!
 
 more function coming...
 ```
