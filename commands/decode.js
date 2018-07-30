@@ -13,6 +13,7 @@ module.exports.run = async (bot,message,args) => {
         decoded += String.fromCharCode(parseInt(arr[i], 2).toString(10));
     }
 
+    message.delete().catch();
     message.channel.send(decoded);
 
 

@@ -13,6 +13,7 @@ module.exports.run = async (bot,message,args) => {
         encoded += Array(8 - bin.length + 1).join("0") + bin;
     } 
 
+    message.delete().catch();
     message.channel.send(encoded);
 
 

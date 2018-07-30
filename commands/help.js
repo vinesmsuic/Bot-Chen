@@ -35,7 +35,10 @@ if(!prefix){
                         "Type " + prefix + "encode [text] to encode text!\n" +
                         "Type " + prefix + "decode [text] to decode text!\n" +
                         "Type " + prefix + "sample to get a sample text!\n" +
-                        "Type " + prefix + "fakemusic [songname] to make a fake musicplayer!\n"
+                        "Type " + prefix + "fakemusic [songname] to make a fake musicplayer!\n" +
+                        "Type " + prefix + "party to get a party website!\n" +
+                        "Type " + prefix + "uselessfact to get a useless fact!\n" +
+                        "Type " + prefix + "uselessweb to get a useless website!\n"
                         + "```");
 
 }
