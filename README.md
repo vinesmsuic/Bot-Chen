@@ -1,6 +1,5 @@
 # Chen The Discord Bot
 
-## What is this:
 A fun [discord](https://en.wikipedia.org/wiki/Discord_(software)) bot. The bot is named after the 	
 Bakeneko "Chen(橙)" from the touhou series.
 
