@@ -58,6 +58,9 @@ Type .encode [text] to encode text!
 Type .decode [text] to decode text!
 Type .sample to get a sample text!
 Type .fakemusic [songname] to make a fake musicplayer!
+Type .party to get a party website!
+Type .uselessfact to get a useless fact!
+Type .uselessweb to get a useless website!
 
 more function coming...
 ```
