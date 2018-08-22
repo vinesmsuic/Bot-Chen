@@ -302,605 +302,91 @@
             
             "In Aspen Colorado, you can have a maximum income of $104,000 and still receive government subsidized housing.",
             
-            /*Honking of car horns for a couple that just got married is an old superstition to insure great sex.
+            "Honking of car horns for a couple that just got married is an old superstition to insure great sex.",
             
-            Dr. Kellogg introduced Kellogg's Corn Flakes in hopes that it would reduce masturbation. [link]
+            "Dr. Kellogg introduced Kellogg's Corn Flakes in hopes that it would reduce masturbation.",
             
-            The sperm of a mouse is actually longer than the sperm of an elephant.
+            "The sperm of a mouse is actually longer than the sperm of an elephant.",
             
-            In medieval France, unfaithful wives were made to chase a chicken through town naked.
+            "In medieval France, unfaithful wives were made to chase a chicken through town naked.",
             
-            The Black Widow spider eats her mate during or after sex.
+            "The Black Widow spider eats her mate during or after sex.",
             
-            Napoleon's penis was sold to an American Urologist for $40,000. [link]
+            "Napoleon's penis was sold to an American Urologist for $40,000.",
             
-            Eating the heart of a male Partridge was the cure for impotence in ancient Babylon.
+            "Eating the heart of a male Partridge was the cure for impotence in ancient Babylon.",
             
-            A bull can inseminate 300 cows from one single ejaculation.
+            "A bull can inseminate 300 cows from one single ejaculation.",
             
-            When a Hawaiian woman wears a flower over her left ear, it means that she is not available.
+            "When a Hawaiian woman wears a flower over her left ear, it means that she is not available.",
             
-            The "save" icon on Microsoft Word shows a floppy disk with the shutter on backwards.
+            "The [save] icon on Microsoft Word shows a floppy disk with the shutter on backwards.",
             
-            The only nation whose name begins with an "A", but doesn't end in an "A" is Afghanistan.
+            "The only nation whose name begins with an 'A', but doesn't end in an 'A' is Afghanistan.",
+
+            "The eyes of a donkey are positioned so that it can see all four feet at all times.",
             
-            The following sentence: 'A rough-coated, dough-faced, thoughtful ploughman strode through the streets of Scarborough; after falling into a slough, he coughed and hiccoughed.' Contains the nine different pronunciations of "ough" in the English Language.
+            "Worcestershire sauce in essentially an Anchovy Ketchup.",
             
-            The verb "cleave" is the only English word with two synonyms which are antonyms of each other: adhere and separate.
+            "Rhode Island is the only state which the hammer throw is a legal high school sport.",
             
-            The only 15-letter word that can be spelled without repeating a letter is uncopyrightable. [link]
+            "The average lifespan of an eyelash is five months.",
             
-            The shape of plant collenchyma’s cells and the shape of the bubbles in beer foam are the same - they are orthotetrachidecahedrons.
+            "A spider has transparent blood.",
             
-            Emus and kangaroos cannot walk backwards, and are on the Australian coat of arms for that reason.
+            "Every acre of American crops harvested contains 100 pounds of insects.",
             
-            Cats have over one hundred vocal sounds, while dogs only have about ten.
+            "Prince Charles is an avid collecter of toilet seats.",
             
-            Blueberry Jelly Bellies were created especially for Ronald Reagan. [link]
+            "The most common street name in the U.S. is Second Street.",
             
-            PEZ candy even comes in a Coffee flavor.
+            "Tehran is the most expensive city on earth.",
             
-            The first song played on Armed Forces Radio during operation Desert Shield was "Rock the Casba" by the Clash. [link]
+            "The sweat drops drawn in cartoon comic strips are called pleuts.",
             
-            Non-dairy creamer is flammable. [link]
+            "Babies are most likely to be born on Tuesdays.",
             
-            The airplane Buddy Holly died in was the "American Pie." (Thus the name of the Don McLean song.)
+            "The HyperMart outside of Garland Texas has 58 check-outs.",
             
-            Each king in a deck of playing cards represents a great king from history. Spades - King David, Clubs - Alexander the Great, Hearts - Charlemagne, and Diamonds - Julius Caesar.
+            "The Minneapolis phone book has 21 pages of Andersons.",
             
-            Golf courses cover 4% of North America.
+            "In the 1980's American migraines increased by 60%.",
             
-            The average person will accidentally eat just under a pound of insects every year.
+            "Jefferson invented the dumbwaiter, the monetary system, and the folding attic ladder.",
             
-            Until 1994, world maps and globes sold in Albania only had Albania on them.
+            "A horse can look forward with one eye and back with the other.",
             
-            The value of Pi will be officially "rounded down" to 3.14 from 3.14159265359 on December 31, 1999.
+            "Shakespeare is quoted 33,150 times in the Oxford English dictionary.",
             
-            The Great Wall of China is the only man-made structure visible from space.
+            "The word Pennsylvania is misspelled on the Liberty Bell.",
             
-            A piece of paper can be folded no more then 9 times.
+            "NBA superstar Michael Jordan was originally cut from his high school basketball team.",
             
-            The amount of computer Memory required to run WordPerfect for Win95 is 8 times the amount needed aboard the space shuttle.
+            "You spend 7 years of your life in the bathroom.",
             
-            The average North American will eat 35,000 cookies during their life span.
+            "A family of 26 could go to the movies in Mexico city for the price of one in Tokyo.",
             
-            Between 25% and 33% of the population sneeze when exposed to light.
+            "10,000 Dutch cows pass through the Amsterdam airport each year.",
             
-            The most common name in world is Mohammed.
+            "Approximately every seven minutes of every day, someone in an aerobics class pulls their hamstring.",
             
-            Mount Olympus Mons on Mars is three times the size of Mount Everest.
+            "Simplistic passwords contribute to over 80% of all computer password break-ins.",
             
-            Most toilets flush in E flat.
+            "The top 3 health-related searches on the Internet are (in this order): Depression, Allergies, & Cancer.",
             
-            2,000 pounds of space dust and other space debris fall on the Earth every day.
+            "Dentists have recommended that a toothbrush be kept at least 6 feet away from a toilet to avoid airborne particles resulting from the flush.",
             
-            Each month, there is at least one report of UFOs from each province of Canada.
+            "Most dust particles in your house are made from dead skin.",
             
-            40,000 Americans are injured by toilets each year.
+            "Venus is the only planet that rotates clockwise.",
             
-            You can be fined up to $1,000 for whistling on Sunday in Salt Lake City, Utah.
+            "It's possible to lead a cow upstairs but not downstairs.",
             
-            It takes about 142.18 licks to reach the center of a Tootsie pop.
+            "It was discovered on a space mission that a frog can throw up. The frog throws up its stomach first, so the stomach is dangling out of its mouth. Then the frog uses its forearms to dig out all of the stomach's contents and then swallows the stomach back down.",
             
-            The serial number of the first MAC ever produced was 2001.
+            "Americans travel 1,144,721,000 miles by air every day",
             
-            It is illegal to eat oranges while bathing in California.
-            
-            If done perfectly, a rubix cube combination can be solved in 17 turns.
-            
-            The average American butt is 14.9 inches long.
-            
-            More bullets were fired in 'Starship Troopers' than any other movie ever made.
-            
-            60% of electrocutions occur while talking on the telephone during a thunderstorm.
-            
-            The name of the girl on the statue of liberty is Mother of Exiles. [link]
-            
-            3.6 cans of Spam are consumed each second.
-            
-            There's a systematic lull in conversation every 7 minutes.
-            
-            The buzz from an electric razor in America plays in the key of B flat; Key of G in England.
-            
-            There are 1,575 steps from the ground floor to the top of the Empire State building. [link]
-            
-            The world's record for keeping a Lifesaver in the mouth with the hole intact is 7 hrs 10 min.
-            
-            There are 293 ways to make change for a dollar.
-            
-            The world record for spitting a watermelon seed is 65 feet 4 inches.
-            
-            In the Philippine jungle, the yo-yo was first used as a weapon.
-            
-            Dueling is legal in Paraguay as long as both parties are registered blood donors.
-            
-            Texas is also the only state that is allowed to fly its state flag at the same height as the U.S. flag.
-            
-            The three most recognized Western names in China are Jesus Christ, Richard Nixon, & Elvis Presley.
-            
-            There is a town in Newfoundland, Canada called Dildo. [link]
-            
-            The Boston University Bridge (on Commonwealth Avenue, Boston, Massachusetts) is the only place in the world where a boat can sail under a train driving under a car driving under an airplane.
-            
-            All 50 states are listed across the top of the Lincoln Memorial on the back of the $5 bill.
-            
-            In space, astronauts are unable to cry, because there is no gravity and the tears won't flow.
-            
-            Chewing gum while peeling onions will keep you from crying.
-            
-            There are more plastic flamingos in the U.S that there are real ones.
-            
-            The crack of a whip is actually a tiny sonic boom, since the tip breaks the sound barrier.
-            
-            Jupiter is bigger than all the other planets in our solar system combined.
-            
-            Hot water is heavier than cold.
-            
-            The common idea that only 10% of the brain is used it not true as it is impossible to determine the actual percentage because of the complexity of the brain.
-            
-            Lawn darts are illegal in Canada.
-            
-            There are more psychoanalysts per capita in Buenos Aires than any other place in the world.
-            
-            Between 2 and 3 jockeys are killed each year in horse racing.
-            
-            5,840 people with pillow related injuries checked into U.S. emergency rooms in 1992.
-            
-            The average woman consumes 6 lbs of lipstick in her lifetime.
-            
-            Some individuals express concern sharing their soap, rightly so, considering 75% of all people wash from top to bottom.
-            
-            Conception occurs most in the month of December.
-            
-            CBS' "60 Minutes" is the only TV show without a theme song/music.
-            
-            Half of all Americans live within 50 miles of their birthplace.
-            
-            'Obsession' is the most popular boat name.
-            
-            On average, Americans' favorite smell is banana.
-            
-            If one spells out numbers, they would have to count to One Thousand before coming across the letter "A".
-            
-            Honey is the only food which does not spoil.
-            
-            3.9% of all women do not wear underwear.
-            
-            This common everyday occurrence composed of 59% nitrogen, 21% hydrogen, and 9% dioxide is called a 'fart'.
-            
-            "Evaluation and Parameterization of Stability and Safety Performance Characteristics of Two and Three Wheeled Vehicular Toys for Riding." Title of a $230,000 research project proposed by the Department of Health, Education and Welfare, to study the various ways children fall off bicycles.
-            
-            Babies are born without kneecaps. They don't appear until the child reaches 2-6 years of age.
-            
-            Meteorologists claim they're right 85% of the time (think about that one!)
-            
-            In 1980, a Las Vegas hospital suspended workers for betting on when patients would die.
-            
-            Los Angeles' full name 'El Pueblo de Nuestra Senora la Reina de Los Angeles de Porciuncula' is reduced to 3.63% of its size in the abbreviation 'L.A.'.
-            
-            If you went out into space, you would explode before you suffocated because there's no air pressure.
-            
-            The only real person to ever to appear on a pez dispenser was Betsy Ross.
-            
-            Mike Nesmith's (the guitarist of The Monkeys) mom invented White Out. [link]
-            
-            Only 6 people in the whole world have died from moshing.
-            
-            241.     In a test performed by Canadian scientists, using various different styles of music, it was determined that chickens lay the most eggs when pop music was played.
-            
-            The storage capacity of human brain exceeds 4 Terabytes.
-            
-            In Vermont, the ratio of cows to people is 10:1
-            
-            Any free-moving liquid in outer space will form itself into a sphere, because of its surface tension.
-            
-            The average American looks at eight houses before buying one.
-            
-            In the average lifetime, a person will walk the equivalent of 5 times around the equator.
-            
-            Koala is Aboriginal for "no drink".
-            
-            Shakespeare spelled his OWN name several different ways.
-            
-            The first contraceptive was crocodile dung used by the ancient Egyptians.
-            
-            A signature is called a John Hancock because he signed the Declaration of Independence. Only 2 people signed the declaration of independence on July 4. The Last person signed 2 years later.
-            
-            Arnold Schonberg suffered from triskaidecaphobia, the fear of the number 13.  He died at 13 minutes from midnight on Friday the 13th.
-            
-            Mozart wrote the nursery rhyme 'twinkle, twinkle, little star' at the age of 5.
-            
-            Weatherman Willard Scott was the first original Ronald McDonald. [link]
-            
-            Virginia Woolf wrote all her books standing.
-            
-            Einstein couldn't speak fluently until after his ninth birthday. His parents thought he was mentally retarded.
-            
-            Al Capone's business card said he was a used furniture dealer.
-            
-            Deborah Winger did the voice of E.T.
-            
-            Kelsey Grammar sings and plays the piano for the theme song of Fraiser.
-            
-            Thomas Edison, acclaimed inventor of the light bulb, was afraid of the dark.
-            
-            In England, the Speaker of the House is not allowed to speak.
-            
-            You can sail all the way around the world at latitude 60 degrees south.
-            
-            The earth weighs around 6,588,000,000,000,000,000,000,000,000 tons.
-            
-            Peanuts are one of the ingredients of dynamite.
-            
-            Porcupines can float in water.
-            
-            The average person's left hand does 56% of the typing.
-            
-            A shark is the only fish that can blink with both eyes.
-            
-            The longest one-syllable word in the English language is "screeched."
-            
-            All of the clocks in the movie "Pulp Fiction" are stuck on 4:20, a national pot-smokers hour.
-            
-            "Dreamt" is the only English word that ends in the letters "mt."
-            
-            Almonds are a member of the peach family.
-            
-            Winston Churchill was born in a ladies' room during a dance.
-            
-            Maine is the only state whose name is just one syllable.
-            
-            There are only four words in the English language which end in "dous": tremendous, horrendous, stupendous, and  hazardous.
-            
-            Tigers not only have striped fur, they have striped skin!
-            
-            In most advertisements, including newspapers, the time displayed on a watch is 10:10.
-            
-            On the ground, a group of geese is a gaggle, in the sky it is a skein.
-            
-            To Ensure Promptness, one is expected to pay beyond the value of service – hence the later abbreviation: T.I.P.
-            
-            When the University of Nebraska Cornhuskers play football at home, the stadium becomes the state's third largest city.
-            
-            The characters Bert and Ernie on Sesame Street were named after Bert the cop and Ernie the taxi driver in Frank Capra's "Its A Wonderful Life."
-            
-            A dragonfly has a lifespan of 24 hours.
-            
-            A dime has 118 ridges around the edge.
-            
-            On an American one-dollar bill, there is an owl in the upper left-hand corner of the "1"encased in the "shield" and a spider hidden in the front upper right-hand corner.
-            
-            The name for Oz in the "Wizard of Oz" was thought up when the creator, Frank Baum, looked at his filing cabinet and saw A-N, and O-Z; hence the name "OZ."
-            
-            The microwave was invented after a researcher walked by a radar tube and a chocolate bar melted in his pocket.
-            
-            Mr. Rogers is an ordained minister.
-            
-            John Lennon's first girlfriend was named Thelma Pickles.
-            
-            There are 336 dimples on a regulation golf ball.
-            
-            The scene where Indiana Jones shoots the swordsman in Raider’s of the Lost Ark was Harrison Ford's idea so that he could take a bathroom break.
-            
-            A crocodile cannot stick its tongue out.
-            
-            A snail can sleep for three years.
-            
-            All polar bears are left-handed.
-            
-            China has more English speakers than the United States.
-            
-            Elephants are the only animals that can't jump.
-            
-            February 1865 is the only month in recorded history not to have a full moon.
-            
-            If the population of China walked past you in single file, the line would never end because of the rate of reproduction.
-            
-            If you yelled for 8 years, 7 months and 6 days, you will have produced enough sound energy to heat one cup of coffee.
-            
-            In the last 4000 years, no new animals have been domesticated.
-            
-            Leonardo Da Vinci invented the scissors.
-            
-            The word "set" has more definitions than any other word in the English language.
-            
-            Nutmeg is extremely poisonous if injected intravenously.
-            
-            On average, people fear spiders more than they do death.
-            
-            One of the reasons marijuana is illegal today is because cotton growers in the 1930s lobbied against hemp farmers they saw it as competition.
-            
-            Shakespeare invented the word 'assassination' and 'bump'.
-            
-            Some lions mate over 50 times a day.
-            
-            Starfish haven't got brains.
-            
-            The ant always falls over on its right side when intoxicated.
-            
-            The name of all continents in the world end with the same letter that they start with.
-            
-            There are two credit cards for every person in the United States.
-            
-            The longest word comprised of one row on the keyboard is: TYPEWRITER
-            
-            You can't kill yourself by holding your breath.  
-            
-            The average person spends 12 weeks a year 'looking for things'.
-            
-            The symbol on the "pound" key (#) is called an octothorpe..  
-            
-            The dot over the letter 'i' is called a tittle.  
-            
-            Ingrown toenails are hereditary.  
-            
-            "Underground" is the only word in the English language that begins and ends with the letters "und"
-            
-            The longest word in the English language, according to the Oxford English Dictionary, is: pneumonoultramicroscopicsilicovolcanoconiosis..  
-            
-            The longest place-name still in use is: Taumatawhakatangihangakoauauotamateaturipukakapikimaungahoronukupokaiakitnatahu, a New Zealand hill.  
-            
-            An ostrich's eye is bigger than its brain.  
-            
-            Alfred Hitchcock didn't have a belly button. It was eliminated when he was sewn up after surgery.
-            
-            Telly Savalas and Louis Armstrong died on their birthdays.  
-            
-            Donald Duck's middle name is Fauntleroy.  
-            
-            The muzzle of a lion is like a fingerprint - no two lions have the same pattern of whiskers.  
-            
-            Steely Dan got their name from a sexual device depicted in the book 'The Naked Lunch'.  
-            
-            The Ramses brand condom is named after the great pharoh Ramses II who fathered over 160 children.
-            
-            There is a seven letter word in the English language that contains ten words without rearranging any of its letters, "therein": the, there, he, in, rein, her, here, ere, therein, herein.  
-            
-            A goldfish has a memory span of three seconds.  
-            
-            Cranberries are sorted for ripeness by bouncing them; a fully ripened cranberry can be dribbled like a basketball.  
-            
-            The male gypsy moth can "smell" the virgin female gypsy moth from 1.8 miles away.  
-            
-            The letters KGB stand for Komitet Gosudarstvennoy Bezopasnosti.  
-            
-            The word "dexter" whose meaning refers to the right hand is typed with only the left hand.  
-            
-            To "testify" was based on men in the Roman court swearing to a statement made by swearing on their testicles.  
-            
-            Facetious and abstemious contain all the vowels in the correct order, as does arsenious, meaning "containing arsenic."  
-            
-            The word "Checkmate" in chess comes from the Persian phrase "Shah Mat," which means "the king is dead."
-            
-            The first episode of "Joanie Loves Chachi" was the highest rated American program in the history of Korean television, a country where "Chachi" translates to "penis".  
-            
-            Rubber bands last longer when refrigerated.  
-            
-            The national anthem of Greece has 158 verses. No one in Greece has memorized all 158 verses.  
-            
-            Two-thirds of the world's eggplant is grown in New Jersey.  
-            
-            The giant squid has the largest eyes in the world.
-            
-            Giraffes have no vocal cords.
-            
-            The pupils of a goat's eyes are square.
-            
-            Van Gogh only sold one painting when he was alive.
-            
-            A standard slinky measures 87 feet when stretched out.
-            
-            The highest per capita Jell-O comsumption in the US is Des Moines.
-            
-            If a rooster can't fully extend its neck, it can't crow.
-            
-            There were always 56 curls in Shirley Temple's hair.
-            
-            The eyes of a donkey are positioned so that it can see all four feet at all times.
-            
-            Worcestershire sauce in essentially an Anchovy Ketchup.
-            
-            Rhode Island is the only state which the hammer throw is a legal high school sport.
-            
-            The average lifespan of an eyelash is five months.
-            
-            A spider has transparent blood.
-            
-            Every acre of American crops harvested contains 100 pounds of insects.
-            
-            Prince Charles is an avid collecter of toilet seats.
-            
-            The most common street name in the U.S. is Second Street.
-            
-            Tehran is the most expensive city on earth.
-            
-            The sweat drops drawn in cartoon comic strips are called pleuts.
-            
-            Babies are most likely to be born on Tuesdays.
-            
-            The HyperMart outside of Garland Texas has 58 check-outs.
-            
-            The Minneapolis phone book has 21 pages of Andersons.
-            
-            In the 1980's American migraines increased by 60%.
-            
-            Poland is the "stolen car capital of the world".
-            
-            Jefferson invented the dumbwaiter, the monetary system, and the folding attic ladder.
-            
-            The S in Harry S. Truman did not stand for anything.
-            
-            In Miconesia, coins are 12 feet across.
-            
-            A horse can look forward with one eye and back with the other.
-            
-            Shakespeare is quoted 33,150 times in the Oxford English dictionary.
-            
-            The word Pennsylvania is misspelled on the Liberty Bell.
-            
-            NBA superstar Michael Jordan was originally cut from his high school basketball team.
-            
-            You spend 7 years of your life in the bathroom.
-            
-            A family of 26 could go to the movies in Mexico city for the price of one in Tokyo.
-            
-            10,000 Dutch cows pass through the Amsterdam airport each year.
-            
-            Approximately every seven minutes of every day, someone in an aerobics class pulls their hamstring.
-            
-            Simplistic passwords contribute to over 80% of all computer password break-ins.
-            
-            The top 3 health-related searches on the Internet are (in this order): Depression, Allergies, & Cancer.
-            
-            Dentists have recommended that a toothbrush be kept at least 6 feet away from a toilet to avoid airborne particles resulting from the flush.
-            
-            Most dust particles in your house are made from dead skin.
-            
-            Venus is the only planet that rotates clockwise.
-            
-            Oak trees do not produce acorns until they are fifty years of age or older.
-            
-            The first owner of the Marlboro company died of lung cancer.
-            
-            All US Presidents have worn glasses; some just didn't like being seen wearing them in public.
-            
-            Mosquito repellents don't repel. They hide you. The spray blocks the mosquito's sensors so they don't know you're there.
-            
-            Walt Disney was afraid of mice.
-            
-            The site with the highest number of women visitors between the age of 35 and 44 years old: Alka-Seltzer.com
-            
-            The king of hearts is the only king without a mustache.
-            
-            Pearls melt in vinegar.
-            
-            It takes 3,000 cows to supply the NFL with enough leather for a year's supply of footballs.
-            
-            Thirty-five percent of people who use personal ads for dating are already married.
-            
-            The 3 most valuable brand names on earth are Marlboro, Coca-Cola, and Budweiser (in that order).
-            
-            Humans are the only primates that don't have pigment in the palms of their hands.
-            
-            Months that begin on a Sunday will always have a 'Friday the 13th'.
-            
-            The fingerprints of koala bears are virtually indistinguishable from those of humans, so much so that they can be easily confused at a crime scene.
-            
-            The mask worn by Michael Myers in the original "Halloween" was actually a Captain Kirk mask painted white.
-            
-            The only two days of the year in which there are no professional sports games--MLB, NBA, NHL, or NFL--are the day before and the day after the Major League All-Star Game.
-            
-            Only one person in two billion will live to be 116 or older.
-            
-            When the French Academy was preparing its first dictionary, it defined "crab" as, "A small red fish, which walks backwards." This definition was sent with a number of others to the naturalist Cuvier for his approval.  The scientist wrote back, "Your definition, gentlemen, would be perfect, only for three exceptions. The crab is not a fish, it is not red and it does not walk backwards."
-            
-            Dr. Jack Kevorkian first patient has Alzheimer's disease.
-            
-            Fictional/horror writer Stephen King sleeps with a nearby light on to calm his fear of the dark. 
-            
-            It's possible to lead a cow upstairs but not downstairs.
-            
-            It was discovered on a space mission that a frog can throw up. The frog throws up its stomach first, so the stomach is dangling out of its mouth. Then the frog uses its forearms to dig out all of the stomach's contents and then swallows the stomach back down.
-            
-            The very first song played on MTV was 'Video Killed The Radio Star' by the Buggles.
-            
-            William Marston engineered one of the earliest forms of the polygraph in the early 1900's. Later he went on to create the comic strip Wonder Woman, a story about a displaced Amazon princess who forces anyone caught in her magic lasso to tell the truth
-            
-            Americans travel 1,144,721,000 miles by air every day
-            
-            The the U.S. you dial '911'. In Stockholm, Sweden you dial 90000
-            
-            38% of American men say they love their cars more than women
-            
-            The U.S. military operates 234 golf courses
-            
-            100% of lottery winners do gain weight
-            
-            Bullet proof vests, fire escapes, windshield wipers, and laser printers were all invented by women
-            
-            A cat has 32 muscles in each ear.
-            
-            A duck's quack doesn't echo, and no one knows why.
-            
-            Cats urine glows under a black light.
-            
-            In every episode of Seinfeld there is a Superman somewhere.
-            
-            Lorne Greene had one of his nipples bitten off by an alligator while he was host of "Lorne Greene's Wild Kingdom."
-            
-            Pamela Anderson Lee is Canada's Centennial Baby, being the first baby born on the centennial anniversary of Canada's independence.
-            
-            Pinocchio is Italian for "pine head."
-            
-            When possums are playing 'possum', they are not "playing." They actually pass out from sheer terror.
-            
-            Who's that playing the piano on the "Mad About You" theme? Paul Reiser himself.
-            
-            Winston Churchill was born in a ladies' room during a dance.
-            
-            Most lipstick contains fish scales!
-            
-            Donald Duck comics were banned from Finland because he doesn't wear pants!
-            
-            There are more than 10 million bricks in the Empire State Building!
-            
-            Camels have three eyelids to protect themselves from blowing sand!
-            
-            The placement of a donkey's eyes in its' heads enables it to see all four feet at all times!
-            
-            The average American/Canadian will eat about 11.9 pounds of cereal per year!
-            
-            Over 1000 birds a year die from smashing into windows!
-            
-            The state of Florida is bigger than England!
-            
-            Dolphins sleep with one eye open!
-            
-            In the White House, there are 13,092 knives, forks and spoons!
-            
-            Recycling one glass jar, saves enough energy to watch T.V for 3 hours!
-            
-            Owls are one of the only birds who can see the color blue!
-            
-            Honeybees have a type of hair on their eyes!
-            
-            A jellyfish is 95 percent water!
-            
-            In Bangladesh, kids as young as 15 can be jailed for cheating on their finals!
-            
-            The katydid bug hears through holes in its hind legs!
-            
-            Q is the only letter in the alphabet that does not appear in the name of any of the United States!
-            
-            166,875,000,000 pieces of mail are delivered each year in the US
-            
-            Bats always turn left when exiting a cave
-            
-            The praying mantis is the only insect that can turn its head
-            
-            Daffy Duck's middle name is "Dumas"
-            
-            In Disney's Fantasia, the Sorcerer's name is "Yensid" (Disney backwards.)
-            
-            In The Empire Strikes Back there is a potato hidden in the asteroid field
-            
-            Walt Disney holds the world record for the most Academy Awards won by one person, he has won twenty statuettes, and twelve other plaques and certificates
-            
-            James Bond's car had three different license plates in Goldfinger
-            
-            Canada makes up 6.67 percent of the Earth's land area
-            
-            South Dakota is the only U.S state which shares no letters with the name of it's capital
-            
-            The KGB is headquartered at No. 2 Felix Dzerzhinsky Square, Moscow
-            
-            The Vatican city registered 0 births in 1983
-            
-            Spain leads the world in cork production
-            
-            There are 1,792 steps in the Eiffel Tower
-            
-            There are 269 steps to the top of the Leaning Tower of Pisa*/
+            "The the U.S. you dial '911'. In Stockholm, Sweden you dial 90000",
             
             "Leonardo da Vinci could write with one hand while drawing with the other"
         ];

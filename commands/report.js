@@ -9,7 +9,7 @@ module.exports.run = async (bot, message, args) => {
     if(!rreason) return errors.noReason(message.channel);
 
     if(args[0] == "help"){
-        message.reply("Usage: !report <user> <reason>");
+        message.reply("Usage: [prefix]report <user> <reason>");
         return;
       }
 
