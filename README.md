@@ -57,6 +57,7 @@ Type .vaporwave [text] to vapor text!
 Type .encode [text] to encode text!
 Type .decode [text] to decode text!
 Type .sample to get a sample text!
+Type .code [text] to stylish the text!
 Type .fakemusic [songname] to make a fake musicplayer!
 Type .party to get a party website!
 Type .uselessfact to get a useless fact!
