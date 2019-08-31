@@ -3,7 +3,7 @@ const Discord = require("discord.js");
 
 module.exports.run = async (bot, message, args) => {
 
-    let foodList = ["pizza","mcdonold","KFC","Tam Jai"];
+    let foodList = ["pizza","mcdonold","KFC","Tam Jai","都can","新can","oldcan","glass can","lawn can","sushi"];
 
     let pickfood = Math.floor((Math.random() * foodList.length));
 
