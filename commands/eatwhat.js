@@ -13,7 +13,7 @@ module.exports.run = async (bot, message, args) => {
     //Using Embed to hide the original info
     let webembed = new Discord.RichEmbed()
     .setColor("#289EED")
-    .addField("Food", foodList[pickfood][0])
+    .addField("Food", foodList[pickfood])
     
     message.channel.send(webembed);
 }
