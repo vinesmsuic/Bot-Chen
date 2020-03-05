@@ -1,3 +1,7 @@
+<a href="https://top.gg/bot/457923703129374720" >
+  <img src="https://top.gg/api/widget/457923703129374720.svg" alt="BOT Chen" />
+</a>
+
 # Chen The Discord Bot
 
 A fun [discord](https://en.wikipedia.org/wiki/Discord_(software)) bot. The bot is named after the 	
