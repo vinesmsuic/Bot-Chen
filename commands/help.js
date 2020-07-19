@@ -14,6 +14,7 @@ if(!prefix){
                        "Type " + prefix + "report [@user reason] to report a player!\n" +
                        "Type " + prefix + "prefix [new prefix] for customized prefix!\n" +
                        "Type " + prefix + "tempmute [1s/1m/1h] to mute a user!\n" +
+                       "Type " + prefix + "timecount [1s/1m/1h] to count time!\n" +
                        "Type " + prefix + "clear [amount] to clear messages!\n" +
                        "Type " + prefix + "eatwhat for food suggestion!\n" 
                        + "```");
