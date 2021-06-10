@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "discord.js": "^12.5.3",
+    "glob-parent": "^3.1.0",
     "ms": "^2.1.1",
     "nodemon": "^1.17.5",
     "superagent": "^3.8.3"
