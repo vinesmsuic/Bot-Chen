@@ -85,7 +85,7 @@ module.exports.run = async (bot, message, args) => {
     //message.channel.send(sitesList[picksite][0]);
 
     //Using Embed to hide the original info
-    let webembed = new Discord.RichEmbed()
+    let webembed = new Discord.MessageEmbed()
     .setColor("#289EED")
     .addField("Useless Website", sitesList[picksite][0])
     

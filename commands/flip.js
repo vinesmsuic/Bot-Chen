@@ -9,7 +9,7 @@ module.exports.run = async (bot, message, args) => {
             coinside = "TAILS（反面）";
         }
 
-        let embedcoin = new Discord.RichEmbed()
+        let embedcoin = new Discord.MessageEmbed()
         .setAuthor(message.author.tag)
         .setColor("#2DDECF")
         .setThumbnail(message.author.avatarURL)

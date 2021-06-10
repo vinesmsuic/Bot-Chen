@@ -64,7 +64,7 @@ bot.on("message", async message => {
     if(cmd == `${prefix}serverinfo` || cmd == `${prefix}sinfo`){
         
         let serverIcon = message.guild.iconURL;
-        let serverInfo = new Discord.RichEmbed()
+        let serverInfo = new Discord.MessageEmbed()
         .setDescription("Server Information")
         .setColor("#ffffff")
         .setThumbnail(serverIcon)
@@ -79,7 +79,7 @@ bot.on("message", async message => {
     if(cmd == `${prefix}botinfo` || cmd == `${prefix}binfo`){
 
         let botIcon = bot.user.displayAvatarURL;
-        let botInfo = new Discord.RichEmbed()
+        let botInfo = new Discord.MessageEmbed()
         .setDescription("Bot Information")
         .setColor("#15f153")
         .setThumbnail(botIcon)

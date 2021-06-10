@@ -4,7 +4,7 @@ module.exports.run = async (bot, message, args) => {
   let memberInfo = message.mentions.members.first();
 
   if(!memberInfo){
-    var userinf = new Discord.RichEmbed()
+    var userinf = new Discord.MessageEmbed()
         .setAuthor(message.author.username)
         .setThumbnail(message.author.avatarURL)
         .setDescription("This is the user's info!")
@@ -17,7 +17,7 @@ module.exports.run = async (bot, message, args) => {
 
   }else{
 
-    var userinfoo = new Discord.RichEmbed()
+    var userinfoo = new Discord.MessageEmbed()
         .setAuthor(memberInfo.displayName)
         .setThumbnail(memberInfo.user.avatarURL)
         .setDescription("This is the user's info!")

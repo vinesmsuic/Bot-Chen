@@ -6,7 +6,7 @@ module.exports.run = async (bot,message,args) => {
 
         let usermsg = args.slice(0).join(" ");
 
-        let Embedmsg = new Discord.RichEmbed()
+        let Embedmsg = new Discord.MessageEmbed()
         .setColor("#A973F9")
         .setThumbnail(message.author.avatarURL)
         .addField(message.author.username + " wanted to say", usermsg);

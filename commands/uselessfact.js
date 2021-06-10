@@ -393,7 +393,7 @@
 
         let factnum = Math.floor((Math.random() * factsuseless.length));
 
-        let factembed = new Discord.RichEmbed()
+        let factembed = new Discord.MessageEmbed()
         //.setAuthor(message.author.tag)
         .setColor("#CC22E2")
         .addField("Useless Fact", factsuseless[factnum])

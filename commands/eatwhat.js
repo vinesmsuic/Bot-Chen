@@ -11,7 +11,7 @@ module.exports.run = async (bot, message, args) => {
     //message.channel.send(foodList[pickfood][0]);
 
     //Using Embed to hide the original info
-    let webembed = new Discord.RichEmbed()
+    let webembed = new Discord.MessageEmbed()
     .setColor("#289EED")
     .addField("Food", foodList[pickfood])
     

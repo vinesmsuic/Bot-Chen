@@ -13,7 +13,7 @@ module.exports.run = async (bot, message, args) => {
         return;
       }
 
-    let reportEmbed = new Discord.RichEmbed()
+    let reportEmbed = new Discord.MessageEmbed()
     .setDescription("Reports")
     .setColor(colorp.hotpink)
     .addField("Reported User", `${rUser} with ID: ${rUser.id}`)
