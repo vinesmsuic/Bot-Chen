@@ -63,7 +63,7 @@ Type .decode [text] to decode text!
 Type .sample to get a sample text!
 Type .code [text] to stylish the text!
 Type .fakemusic [songname] to make a fake musicplayer!
-Type .party to get a party website!
+Type .sound [soundeffect] to listen audio!
 Type .uselessfact to get a useless fact!
 Type .uselessweb to get a useless website!
 
@@ -79,4 +79,4 @@ more function coming...
 ![Chen's Pic](https://ih0.redbubble.net/image.15399115.2349/raf,750x1000,075,t,fafafa:ca443f4786.jpg)
 
 
-Version 1.0
+Version 1.2
