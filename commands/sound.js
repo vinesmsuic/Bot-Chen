@@ -1,31 +1,25 @@
 const Discord = require("discord.js");
+var fs = require('fs');
+
+var files = fs.readdirSync('./sounds/audio_files/');
 
 module.exports.run = async (bot, message, args) => {
     // TO DO CODES
 
+    if(args[0] == "help"){
+        msg = "Available sound effects: \n"
+        files.forEach(file => {
+            msg = msg.concat(file + "\n");
+        });
+        message.reply(msg);
+        return;
+    }
+
     var isReady = true;
     var voiceChannel = message.member.voice.channel;
 
-
-    const playAudio = async (audioQueue, connection) => {
-        const dispatcher = connection.play(audioQueue.pop(), {
-            volume: 1,
-        });
-        // When audio finished playing
-        dispatcher.on("finish", () => {
-            dispatcher.destroy();
-            if (audioQueue.length > 0) {
-                playAudio(audioQueue, connection);
-            } else {
-                connection.channel.leave();
-            }
-        });
-    };
-
-    voiceChannel
-    .join()
-    .then((connection) => {
-        const dispatcher = connection.play("./sounds/gg.mp3");
+    voiceChannel.join().then((connection) => {
+        const dispatcher = connection.play("./sounds/audio_files/gg.mp3");
 
         dispatcher.on("speaking", (speaking) => {
             if (!speaking) {
