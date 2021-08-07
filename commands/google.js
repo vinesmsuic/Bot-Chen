@@ -4,7 +4,7 @@ module.exports.run = async (bot,message,args) => {
 
     if(!args[0]) return message.reply("What you want me to google?")
 
-    let lmgtfy = "http://lmgtfy.com/?q="
+    let lmgtfy = "https://letmegooglethat.com/?q="
     let question = args.join("+");
 
     let lmgtfyq = lmgtfy + question;

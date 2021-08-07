@@ -9,8 +9,12 @@
   "author": "vinesmsuic",
   "license": "ISC",
   "dependencies": {
+    "@discordjs/opus": "^0.5.3",
+    "@discordjs/voice": "^0.5.5",
     "discord.js": "^12.5.3",
+    "ffmpeg-static": "^4.4.0",
     "glob-parent": "^6.0.0",
+    "libsodium-wrappers": "^0.7.9",
     "ms": "^2.1.1",
     "nodemon": "^2.0.7",
     "superagent": "^3.8.3"

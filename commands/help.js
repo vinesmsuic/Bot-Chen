@@ -39,7 +39,6 @@ if(!prefix){
                         "Type " + prefix + "sample to get a sample text!\n" +
                         "Type " + prefix + "code[text] to send styled codes!\n" +
                         "Type " + prefix + "fakemusic [songname] to make a fake musicplayer!\n" +
-                        "Type " + prefix + "party to get a party website!\n" +
                         "Type " + prefix + "uselessfact to get a useless fact!\n" +
                         "Type " + prefix + "uselessweb to get a useless website!\n" +
                         "Type " + prefix + "google [stuff] to google stuffs!\n"
