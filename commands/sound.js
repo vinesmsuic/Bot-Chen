@@ -27,9 +27,9 @@ module.exports.run = async (bot, message, args) => {
                     volume: 0.5,
                 });
 
-                isReady = false;
-        
                 dispatcher.on("speaking", (speaking) => {
+                    isReady = false;
+                    
                     if (!speaking) {
                         voiceChannel.leave();
                         isReady = true;
