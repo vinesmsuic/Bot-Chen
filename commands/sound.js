@@ -41,7 +41,7 @@ module.exports.run = async (bot, message, args) => {
             }
             else
             {
-                message.reply("Join a channel first!");
+                message.reply("Join a voice channel first!");
                 return;
             }
         }
