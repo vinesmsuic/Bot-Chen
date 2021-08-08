@@ -57,6 +57,11 @@ module.exports.run = async (bot, message, args) => {
             return;
         }
     }
+    else
+    {
+        message.reply("Usage: .sound [soundeffect filename]");
+        return;
+    }
 
 
     
